@@ -4,3 +4,5 @@ This is a certificate creator is an internal tool for Global Seal of Biliteracy 
 Dropdown Menu Example
 <img width="1792" alt="row selection example" src="https://user-images.githubusercontent.com/55898208/146053795-169bb96c-3caf-4c6f-81c2-c4e14b124de5.png">
 Row Selection Example
+<img width="1792" alt="final product" src="https://user-images.githubusercontent.com/55898208/146054383-e3ec4437-8667-4d15-a55c-6ff8a190c68f.png">
+Final Product (with fake sample data) 
